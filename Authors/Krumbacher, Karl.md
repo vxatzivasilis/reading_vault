@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Founder of Byzantine studies as an academic discipline.
 
 ## Must-read works
 ```dataview
