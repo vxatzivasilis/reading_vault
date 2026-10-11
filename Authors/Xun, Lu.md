@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Nietzsche, Friedrich]]"
 works_raw: "Diary of a Madman and Other Stories"
 ---
 
 ## Why read them
-
+Founder of modern Chinese literature; savage social satire in short form.
 
 ## Must-read works
 ```dataview

@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
-works_raw: "American Pastoral"
+influenced_by:
+  - "[[Kafka, Franz]]"
+  - "[[Bellow, Saul]]"
 ---
 
 ## Why read them
-
+American identity, desire and mortality; comic and merciless.
 
 ## Must-read works
 ```dataview

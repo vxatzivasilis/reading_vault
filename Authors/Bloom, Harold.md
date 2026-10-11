@@ -8,11 +8,14 @@ roles: ["critic", "professor"]
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Shakespeare, William]]"
+  - "[[Milton, John]]"
+  - "[[Nietzsche, Friedrich]]"
 ---
 
 ## Why read them
-
+Critic who made influence itself the subject; useful for this very vault.
 
 ## Must-read works
 ```dataview

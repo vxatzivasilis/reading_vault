@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Industrial capitalism observed first-hand; the other half of Marxism.
 
 ## Must-read works
 ```dataview

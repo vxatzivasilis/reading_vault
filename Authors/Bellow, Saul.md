@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Dostoevsky, Fyodor]]"
 works_raw: "Humboldt’s Gift"
 ---
 
 ## Why read them
-
+Intellectual energy and urban voice; the American novel of ideas.
 
 ## Must-read works
 ```dataview

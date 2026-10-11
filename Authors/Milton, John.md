@@ -8,11 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%BF%CE%BD_%CE%9C%CE%AF%CE%BB%CF%84%CE%BF%CE%BD"
-influenced_by: []
+influenced_by:
+  - "[[Όμηρος]]"
+  - "[[Shakespeare, William]]"
 ---
 
 ## Why read them
-
+The English epic and the case for freedom of expression.
 
 ## Must-read works
 ```dataview

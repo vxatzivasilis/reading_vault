@@ -8,11 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: "https://en.wikipedia.org/wiki/John_Keats"
-influenced_by: []
+influenced_by:
+  - "[[Shakespeare, William]]"
+  - "[[Milton, John]]"
 ---
 
 ## Why read them
-
+Romantic sensuousness and the idea of negative capability.
 
 ## Must-read works
 ```dataview

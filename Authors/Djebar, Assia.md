@@ -13,7 +13,7 @@ works_raw: "Fantasia: An Algerian Cavalcade"
 ---
 
 ## Why read them
-
+Algerian history and women's voices in French; memory against erasure.
 
 ## Must-read works
 ```dataview

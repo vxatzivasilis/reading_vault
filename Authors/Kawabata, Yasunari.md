@@ -13,7 +13,7 @@ works_raw: "Snow Country"
 ---
 
 ## Why read them
-
+Restraint, beauty and loss; Japan's first Nobel laureate in literature.
 
 ## Must-read works
 ```dataview

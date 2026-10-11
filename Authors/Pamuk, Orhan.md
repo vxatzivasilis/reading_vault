@@ -8,12 +8,15 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Dostoevsky, Fyodor]]"
+  - "[[Proust, Marcel]]"
+  - "[[Mann, Thomas]]"
 works_raw: "The White Castle"
 ---
 
 ## Why read them
-
+Istanbul, East and West, memory and collecting, in layered narrative.
 
 ## Must-read works
 ```dataview

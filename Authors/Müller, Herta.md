@@ -13,7 +13,7 @@ works_raw: "The Passport"
 ---
 
 ## Why read them
-
+Life under dictatorship rendered in dense, poetic prose.
 
 ## Must-read works
 ```dataview

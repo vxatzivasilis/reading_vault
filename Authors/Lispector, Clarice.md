@@ -8,12 +8,14 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Woolf, Virginia]]"
+  - "[[Joyce, James]]"
 works_raw: "The Hour of the Star"
 ---
 
 ## Why read them
-
+Interior fiction at the edge of language; Brazil's great modernist.
 
 ## Must-read works
 ```dataview

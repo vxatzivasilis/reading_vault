@@ -8,11 +8,12 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%86%CF%81%CF%84%CE%BF%CF%85%CF%81_%CE%A3%CE%BF%CF%80%CE%B5%CE%BD%CF%87%CE%AC%CE%BF%CF%85%CE%B5%CF%81"
-influenced_by: []
+influenced_by:
+  - "[[Πλάτωνας]]"
 ---
 
 ## Why read them
-
+Philosophical pessimism; a major influence on Nietzsche, Mann and Tolstoy.
 
 ## Must-read works
 ```dataview

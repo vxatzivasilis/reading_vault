@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Totalitarianism from the inside, plus a sweeping history of science.
 
 ## Must-read works
 ```dataview
