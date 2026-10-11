@@ -1,0 +1,15 @@
+---
+type: work
+author: "[[Lorca, Federico García]]"
+year: 1940
+form: poetry
+must_read: true
+status: unread
+date_finished:
+rating:
+---
+
+## Why it matters
+
+
+## My notes
