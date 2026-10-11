@@ -8,11 +8,13 @@ roles: ["writer"]
 priority: 5
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Balzac, Honoré de]]"
+  - "[[Flaubert, Gustave]]"
 ---
 
 ## Why read them
-
+Founder of Italian verismo: Sicilian poverty told without sentiment.
 
 ## Must-read works
 ```dataview

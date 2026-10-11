@@ -8,11 +8,12 @@ roles: ["dramatist", "novelist", "poet", "short story writer"]
 priority: 5
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Verga, Giovanni]]"
 ---
 
 ## Why read them
-
+Identity, masks and the unreliability of the self, turned into theatre.
 
 ## Must-read works
 ```dataview

@@ -8,11 +8,14 @@ roles: ["critic", "essayist", "novelist", "short story writer"]
 priority: 5
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Goethe, Johann Wolfgang von]]"
+  - "[[Nietzsche, Friedrich]]"
+  - "[[Schopenhauer, Arthur]]"
 ---
 
 ## Why read them
-
+The great German novel of ideas: bourgeois decline, art and sickness.
 
 ## Must-read works
 ```dataview

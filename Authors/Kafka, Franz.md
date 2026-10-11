@@ -9,6 +9,7 @@ priority: 1
 status: not-started
 wikipedia: ""
 influenced_by:
+  - "[[Hamsun, Knut]]"
   - "[[Cervantes, Miguel de]]"
   - "[[Dostoevsky, Fyodor]]"
   - "[[Flaubert, Gustave]]"

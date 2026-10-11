@@ -8,11 +8,12 @@ roles: ["dramatist", "journalist", "novelist", "short story writer"]
 priority: 5
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Jacobsen, Jens Peter]]"
 ---
 
 ## Why read them
-
+Cool Swedish irony and urban melancholy.
 
 ## Must-read works
 ```dataview

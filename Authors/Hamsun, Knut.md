@@ -8,11 +8,13 @@ roles: ["critic", "poet", "writer"]
 priority: 5
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Dostoevsky, Fyodor]]"
+  - "[[Strindberg, August]]"
 ---
 
 ## Why read them
-
+Interior monologue and psychological hunger; a huge influence on Kafka and Hemingway.
 
 ## Must-read works
 ```dataview
