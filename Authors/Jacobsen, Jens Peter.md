@@ -8,11 +8,12 @@ roles: ["novelist", "poet", "scientist"]
 priority: 3
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Flaubert, Gustave]]"
 ---
 
 ## Why read them
-
+Danish prose stylist who shaped Rilke and the Scandinavian modernists.
 
 ## Must-read works
 ```dataview

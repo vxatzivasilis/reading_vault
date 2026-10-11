@@ -8,11 +8,12 @@ roles: ["dramatist", "short story writer"]
 priority: 3
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Tolstoy, Leo]]"
 ---
 
 ## Why read them
-
+Master of the short story and of drama where nothing happens and everything changes.
 
 ## Must-read works
 ```dataview

@@ -8,12 +8,15 @@ roles: ["novelist", "writer"]
 priority: 1
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Dostoevsky, Fyodor]]"
+  - "[[Flaubert, Gustave]]"
+  - "[[Goethe, Johann Wolfgang von]]"
 works_raw: "The Trial"
 ---
 
 ## Why read them
-
+Bureaucratic dread and absurdity written in plain, exact prose.
 
 ## Must-read works
 ```dataview

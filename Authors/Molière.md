@@ -13,7 +13,7 @@ works_raw: "Tartuffe"
 ---
 
 ## Why read them
-
+Comedy of manners and hypocrisy; the French stage at its sharpest.
 
 ## Must-read works
 ```dataview

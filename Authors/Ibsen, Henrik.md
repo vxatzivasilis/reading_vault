@@ -8,11 +8,12 @@ roles: ["dramatist"]
 priority: 1
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Goethe, Johann Wolfgang von]]"
 ---
 
 ## Why read them
-
+Founder of modern realist drama; domestic life turned into moral trial.
 
 ## Must-read works
 ```dataview

@@ -8,11 +8,15 @@ roles: ["dramatist"]
 priority: 3
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Strindberg, August]]"
+  - "[[Nietzsche, Friedrich]]"
+  - "[[Ibsen, Henrik]]"
+  - "[[Αισχύλος]]"
 ---
 
 ## Why read them
-
+American tragedy with Greek and Strindbergian roots.
 
 ## Must-read works
 ```dataview

@@ -8,11 +8,14 @@ roles: ["dramatist", "essayist", "novelist", "poet", "painter"]
 priority: 2
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Ibsen, Henrik]]"
+  - "[[Nietzsche, Friedrich]]"
+  - "[[Schopenhauer, Arthur]]"
 ---
 
 ## Why read them
-
+Raw, experimental drama of marriage, class and the unstable self.
 
 ## Must-read works
 ```dataview

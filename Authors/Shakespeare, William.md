@@ -8,12 +8,13 @@ roles: ["dramatist", "poet"]
 priority: 1
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Marlowe, Christopher]]"
 works_raw: "Hamlet, King Lear"
 ---
 
 ## Why read them
-
+The benchmark for character, language and dramatic structure in English.
 
 ## Must-read works
 ```dataview

@@ -8,11 +8,13 @@ roles: ["writer"]
 priority: 2
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Dickens, Charles]]"
+  - "[[Schopenhauer, Arthur]]"
 ---
 
 ## Why read them
-
+Realism at full scale, plus the moral questions of how to live and die.
 
 ## Must-read works
 ```dataview

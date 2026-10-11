@@ -8,11 +8,14 @@ roles: ["critic", "philosopher"]
 priority: 1
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Schopenhauer, Arthur]]"
+  - "[[Ηράκλειτος]]"
+  - "[[Goethe, Johann Wolfgang von]]"
 ---
 
 ## Why read them
-
+The most provocative critic of morality, religion and culture in modern thought.
 
 ## Must-read works
 ```dataview
