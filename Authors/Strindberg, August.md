@@ -9,6 +9,7 @@ priority: 2
 status: not-started
 wikipedia: ""
 influenced_by:
+  - "[[Balzac, Honoré de]]"
   - "[[Ibsen, Henrik]]"
   - "[[Nietzsche, Friedrich]]"
   - "[[Schopenhauer, Arthur]]"

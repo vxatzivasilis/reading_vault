@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Dystopia built on pleasure rather than terror; essays on mind and society.
 
 ## Must-read works
 ```dataview

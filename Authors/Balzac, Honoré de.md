@@ -9,11 +9,10 @@ priority: 4
 status: not-started
 wikipedia: ""
 influenced_by: []
-works_raw: "Το μαγικό δέρμα"
 ---
 
 ## Why read them
-
+The Human Comedy: society dissected as a system of money, ambition and class.
 
 ## Must-read works
 ```dataview

@@ -8,7 +8,8 @@ roles: []
 priority: 
 status: not-started
 wikipedia: "https://en.wikipedia.org/wiki/Gustave_Flaubert"
-influenced_by: []
+influenced_by:
+  - "[[Balzac, Honoré de]]"
 ---
 
 ## Why read them

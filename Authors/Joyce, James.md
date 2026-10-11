@@ -8,12 +8,16 @@ roles: ["critic", "novelist", "poet"]
 priority: 4
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Ibsen, Henrik]]"
+  - "[[Flaubert, Gustave]]"
+  - "[[Shakespeare, William]]"
+  - "[[Όμηρος]]"
 works_raw: "Dubliners"
 ---
 
 ## Why read them
-
+The most radical reinvention of the English-language novel.
 
 ## Must-read works
 ```dataview

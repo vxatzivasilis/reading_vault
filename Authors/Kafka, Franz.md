@@ -9,6 +9,7 @@ priority: 1
 status: not-started
 wikipedia: ""
 influenced_by:
+  - "[[Cervantes, Miguel de]]"
   - "[[Dostoevsky, Fyodor]]"
   - "[[Flaubert, Gustave]]"
   - "[[Goethe, Johann Wolfgang von]]"

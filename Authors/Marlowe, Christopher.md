@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Shakespeare's most important predecessor; ambition and damnation in blank verse.
 
 ## Must-read works
 ```dataview

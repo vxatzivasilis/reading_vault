@@ -8,12 +8,15 @@ roles: ["critic", "essayist", "novelist"]
 priority: 4
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Flaubert, Gustave]]"
+  - "[[Balzac, Honoré de]]"
+  - "[[Dostoevsky, Fyodor]]"
 works_raw: "Swann’s Way"
 ---
 
 ## Why read them
-
+Memory, time and desire in the longest sustained work of introspection.
 
 ## Must-read works
 ```dataview

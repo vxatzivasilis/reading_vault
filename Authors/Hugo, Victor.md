@@ -8,11 +8,12 @@ roles: ["dramatist", "essayist", "poet", "writer"]
 priority: 4
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Goethe, Johann Wolfgang von]]"
 ---
 
 ## Why read them
-
+French Romanticism at epic scale: social conscience as grand narrative.
 
 ## Must-read works
 ```dataview

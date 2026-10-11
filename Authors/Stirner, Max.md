@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Radical individualism; the sharpest challenge to every collective ideal.
 
 ## Must-read works
 ```dataview

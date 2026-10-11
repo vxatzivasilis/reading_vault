@@ -12,7 +12,7 @@ influenced_by: []
 ---
 
 ## Why read them
-
+Don Quixote is the first modern novel and still one of the funniest.
 
 ## Must-read works
 ```dataview
