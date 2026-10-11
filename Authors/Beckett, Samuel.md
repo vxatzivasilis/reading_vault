@@ -8,12 +8,14 @@ roles: ["dramatist", "novelist", "poet", "short story writer"]
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Joyce, James]]"
+  - "[[Proust, Marcel]]"
 works_raw: "Endgame"
 ---
 
 ## Why read them
-
+Minimalism pushed to the limit: language, waiting and the absurd.
 
 ## Must-read works
 ```dataview

@@ -8,12 +8,14 @@ roles: ["novelist"]
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Cervantes, Miguel de]]"
+  - "[[Shakespeare, William]]"
 works_raw: "Great Expectations"
 ---
 
 ## Why read them
-
+Victorian society in comic and grotesque detail, with a social conscience.
 
 ## Must-read works
 ```dataview

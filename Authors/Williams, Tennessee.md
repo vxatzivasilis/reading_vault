@@ -8,11 +8,13 @@ roles: ["dramatist", "screenwriter"]
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Chekhov, Anton]]"
+  - "[[Strindberg, August]]"
 ---
 
 ## Why read them
-
+Southern Gothic psychology on the American stage.
 
 ## Must-read works
 ```dataview

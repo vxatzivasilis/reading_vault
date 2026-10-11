@@ -8,12 +8,14 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Shakespeare, William]]"
+  - "[[Marlowe, Christopher]]"
 works_raw: "The Waste Land"
 ---
 
 ## Why read them
-
+Modernist poetry and criticism: fragmentation and tradition.
 
 ## Must-read works
 ```dataview

@@ -8,12 +8,14 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Balzac, Honoré de]]"
+  - "[[Flaubert, Gustave]]"
 works_raw: "The Turn of the Screw"
 ---
 
 ## Why read them
-
+Psychological realism; consciousness as the real subject of the novel.
 
 ## Must-read works
 ```dataview

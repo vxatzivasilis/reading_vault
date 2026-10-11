@@ -8,12 +8,14 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AD%CF%81%CF%84%CE%BF%CE%BB%CF%84_%CE%9C%CF%80%CF%81%CE%B5%CF%87%CF%84"
-influenced_by: []
+influenced_by:
+  - "[[Shakespeare, William]]"
+  - "[[Strindberg, August]]"
 works_raw: "The Caucasian Chalk Circle"
 ---
 
 ## Why read them
-
+Epic theatre: drama as argument rather than illusion.
 
 ## Must-read works
 ```dataview

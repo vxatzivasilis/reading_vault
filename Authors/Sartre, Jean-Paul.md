@@ -8,12 +8,13 @@ roles: ["biographer", "critic", "dramatist", "novelist", "philosopher", "screenw
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Nietzsche, Friedrich]]"
 works_raw: "No Exit"
 ---
 
 ## Why read them
-
+Existentialism: freedom, bad faith and responsibility.
 
 ## Must-read works
 ```dataview

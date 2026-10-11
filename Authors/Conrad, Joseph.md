@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Flaubert, Gustave]]"
 works_raw: "Heart of Darkness"
 ---
 
 ## Why read them
-
+Imperialism, moral ambiguity and narrative unreliability.
 
 ## Must-read works
 ```dataview

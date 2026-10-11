@@ -8,12 +8,14 @@ roles: ["dramatist"]
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Kafka, Franz]]"
+  - "[[Pirandello, Luigi]]"
 works_raw: "The bald Soprano"
 ---
 
 ## Why read them
-
+Theatre of the absurd: language collapsing into nonsense and conformity.
 
 ## Must-read works
 ```dataview

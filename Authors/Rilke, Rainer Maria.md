@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Jacobsen, Jens Peter]]"
 works_raw: "The Notebooks of Malte Laurids Brigge"
 ---
 
 ## Why read them
-
+The great German-language lyric poet of inwardness and transformation.
 
 ## Must-read works
 ```dataview

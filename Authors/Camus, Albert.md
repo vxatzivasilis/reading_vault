@@ -8,12 +8,15 @@ roles: ["dramatist", "journalist", "philosopher", "writer"]
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Dostoevsky, Fyodor]]"
+  - "[[Nietzsche, Friedrich]]"
+  - "[[Kafka, Franz]]"
 works_raw: "The Stranger"
 ---
 
 ## Why read them
-
+The absurd, revolt and moral clarity in plain prose.
 
 ## Must-read works
 ```dataview

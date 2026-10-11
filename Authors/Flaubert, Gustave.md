@@ -9,11 +9,13 @@ priority: 6
 status: not-started
 wikipedia: "https://en.wikipedia.org/wiki/Gustave_Flaubert"
 influenced_by:
+  - "[[Cervantes, Miguel de]]"
+  - "[[Hugo, Victor]]"
   - "[[Balzac, Honoré de]]"
 ---
 
 ## Why read them
-
+Realism and style: the discipline of the exact word.
 
 ## Must-read works
 ```dataview

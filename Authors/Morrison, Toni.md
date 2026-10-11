@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Woolf, Virginia]]"
 works_raw: "Beloved"
 ---
 
 ## Why read them
-
+American history, memory and race rendered as myth.
 
 ## Must-read works
 ```dataview

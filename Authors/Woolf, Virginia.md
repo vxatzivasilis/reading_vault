@@ -8,12 +8,15 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Proust, Marcel]]"
+  - "[[Chekhov, Anton]]"
+  - "[[James, Henry]]"
 works_raw: "Mrs Dalloway"
 ---
 
 ## Why read them
-
+Stream of consciousness and the form of the modern novel; feminism in essays.
 
 ## Must-read works
 ```dataview

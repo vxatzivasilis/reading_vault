@@ -13,7 +13,7 @@ works_raw: "Blood Wedding"
 ---
 
 ## Why read them
-
+Duende, folklore and tragedy in Spanish poetry and drama.
 
 ## Must-read works
 ```dataview

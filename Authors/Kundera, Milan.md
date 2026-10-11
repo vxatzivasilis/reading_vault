@@ -8,12 +8,14 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Kafka, Franz]]"
+  - "[[Cervantes, Miguel de]]"
 works_raw: "The Unbearable Lightness of Being"
 ---
 
 ## Why read them
-
+Philosophical novels on memory, politics and the lightness of existence.
 
 ## Must-read works
 ```dataview

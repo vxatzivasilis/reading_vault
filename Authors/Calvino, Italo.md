@@ -8,12 +8,13 @@ roles: []
 priority: 6
 status: not-started
 wikipedia: ""
-influenced_by: []
+influenced_by:
+  - "[[Kafka, Franz]]"
 works_raw: "Invisible Cities"
 ---
 
 ## Why read them
-
+Playful, precise fabulist; fiction as a game of structure and ideas.
 
 ## Must-read works
 ```dataview
