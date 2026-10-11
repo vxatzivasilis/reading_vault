@@ -5,7 +5,7 @@ born: 1608
 died: 1674
 language: 
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%BF%CE%BD_%CE%9C%CE%AF%CE%BB%CF%84%CE%BF%CE%BD"
 influenced_by: []

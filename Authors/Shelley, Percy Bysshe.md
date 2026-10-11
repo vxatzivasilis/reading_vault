@@ -5,7 +5,7 @@ born: 1792
 died: 1922
 language: 
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%A0%CE%AD%CF%81%CF%83%CE%B9_%CE%A3%CE%AD%CE%BB%CE%BB%CE%B5%CF%8B"
 influenced_by: []

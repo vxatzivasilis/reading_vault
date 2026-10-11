@@ -5,7 +5,7 @@ born: 1836
 died: 1904
 language: English
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

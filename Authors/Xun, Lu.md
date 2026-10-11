@@ -5,7 +5,7 @@ born:
 died: 
 language: Chinese
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

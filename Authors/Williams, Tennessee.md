@@ -5,7 +5,7 @@ born: 1911
 died: 1983
 language: English
 roles: ["dramatist", "screenwriter"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

@@ -5,7 +5,7 @@ born: 1915
 died: 2005
 language: English
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

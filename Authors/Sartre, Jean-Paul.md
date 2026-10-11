@@ -5,7 +5,7 @@ born: 1905
 died: 1980
 language: French
 roles: ["biographer", "critic", "dramatist", "novelist", "philosopher", "screenwriter"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

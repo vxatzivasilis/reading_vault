@@ -5,7 +5,7 @@ born: 1909
 died: 1994
 language: French
 roles: ["dramatist"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

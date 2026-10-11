@@ -5,7 +5,7 @@ born: 1856
 died: 1909
 language: 
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%81%CE%BB_%CE%9A%CF%81%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CF%87%CE%B5%CF%81"
 influenced_by: []

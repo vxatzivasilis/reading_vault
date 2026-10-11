@@ -5,7 +5,7 @@ born: 1913
 died: 1960
 language: French
 roles: ["dramatist", "journalist", "philosopher", "writer"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

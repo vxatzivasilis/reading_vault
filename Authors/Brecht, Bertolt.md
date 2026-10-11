@@ -5,7 +5,7 @@ born: 1898
 died: 1956
 language: German
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AD%CF%81%CF%84%CE%BF%CE%BB%CF%84_%CE%9C%CF%80%CF%81%CE%B5%CF%87%CF%84"
 influenced_by: []

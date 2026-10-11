@@ -5,7 +5,7 @@ born: 1906
 died: 1989
 language: English
 roles: ["dramatist", "novelist", "poet", "short story writer"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

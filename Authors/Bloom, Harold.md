@@ -5,7 +5,7 @@ born: 1930
 died: 2019
 language: English
 roles: ["critic", "professor"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

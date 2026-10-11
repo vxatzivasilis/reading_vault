@@ -5,7 +5,7 @@ born: 1821
 died: 1880
 language: 
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: "https://en.wikipedia.org/wiki/Gustave_Flaubert"
 influenced_by:

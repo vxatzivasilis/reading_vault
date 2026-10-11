@@ -5,7 +5,7 @@ born: 1812
 died: 1870
 language: English
 roles: ["novelist"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

@@ -5,7 +5,7 @@ born: 1905
 died: 1983
 language: English
 roles: ["journalist", "writer"]
-priority: 
+priority: 6
 status: not-started
 wikipedia: ""
 influenced_by: []

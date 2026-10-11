@@ -5,7 +5,7 @@ born: 1795
 died: 1821
 language: 
 roles: []
-priority: 
+priority: 6
 status: not-started
 wikipedia: "https://en.wikipedia.org/wiki/John_Keats"
 influenced_by: []
